@@ -2,7 +2,7 @@
 title: Onboard machines without Internet access to Microsoft Defender ATP
 ms.reviewer: 
 description: Onboard machines without Internet access so that they can send sensor data to the Microsoft Defender ATP sensor
-keywords: onboard, servers, vm, on-premise, oms gateway, log analytics, azure log analytics, mma
+keywords: onboard, servers, vm, on-premises, oms gateway, log analytics, azure log analytics, mma
 search.product: eADQiWindows 10XVcnh
 search.appverid: met150
 ms.prod: w10
@@ -25,7 +25,7 @@ ms.topic: article
 
 To onboard machines without Internet access, you'll need to take the following general steps:
 
-## On-premise machines
+## On-premises machines
 
 - Setup Azure Log Analytics (formerly known as OMS Gateway) to act as proxy or hub:
   - [Azure Log Analytics Agent](https://docs.microsoft.com/azure/azure-monitor/platform/gateway#download-the-log-analytics-gateway)
